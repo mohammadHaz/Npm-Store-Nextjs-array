@@ -1,0 +1,2245 @@
+[
+  {
+    "id": 46,
+    "name": "react-native-paper",
+    "description_ar": "مكتبة Material Design لـ React Native",
+    "description_en": "Material Design components for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "ui",
+      "material",
+      "components"
+    ],
+    "level": "beginner",
+    "badges": [
+      "production-ready",
+      "beginner-friendly"
+    ],
+    "npm": "react-native-paper",
+    "stars": 11500,
+    "useCase_ar": "لبناء واجهات جميلة بسرعة مع Material Design",
+    "useCase_en": "Build beautiful UIs quickly with Material Design",
+    "imageUrl": "/uploads/1770316236006.jpg",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 18:30:36.061"
+  },
+  {
+    "id": 47,
+    "name": "electron-store",
+    "description_ar": "حفظ البيانات المحلية بسهولة في تطبيقات Electron",
+    "description_en": "Simple data persistence for Electron apps",
+    "platforms": [
+      "electron"
+    ],
+    "category": "storage",
+    "tags": [
+      "storage",
+      "offline",
+      "local"
+    ],
+    "level": "beginner",
+    "badges": [
+      "production-ready",
+      "lightweight"
+    ],
+    "npm": "electron-store",
+    "stars": 4200,
+    "useCase_ar": "عندما تحتاج لحفظ إعدادات المستخدم أو بيانات محلية",
+    "useCase_en": "When you need to save user preferences or local data",
+    "imageUrl": "/uploads/1770352850726.png",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-06 04:40:50.785"
+  },
+  {
+    "id": 48,
+    "name": "framer-motion",
+    "description_ar": "مكتبة رسوم متحركة قوية لـ React",
+    "description_en": "Production-ready animation library for React",
+    "platforms": [
+      "nextjs",
+      "react-native"
+    ],
+    "category": "animation",
+    "tags": [
+      "animation",
+      "ui",
+      "gestures"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "production-ready",
+      "powerful"
+    ],
+    "npm": "framer-motion",
+    "stars": 22000,
+    "useCase_ar": "لإضافة حركات سلسة وتفاعلية لواجهتك",
+    "useCase_en": "Add smooth and interactive animations to your UI",
+    "imageUrl": "/uploads/1770271306647.png",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 06:01:46.689"
+  },
+  {
+    "id": 49,
+    "name": "axios",
+    "description_ar": "عميل HTTP قوي وسهل الاستخدام",
+    "description_en": "Promise-based HTTP client",
+    "platforms": [
+      "electron",
+      "nextjs",
+      "react-native"
+    ],
+    "category": "networking",
+    "tags": [
+      "http",
+      "api",
+      "requests"
+    ],
+    "level": "beginner",
+    "badges": [
+      "production-ready",
+      "beginner-friendly",
+      "lightweight"
+    ],
+    "npm": "axios",
+    "stars": 104000,
+    "useCase_ar": "للتواصل مع APIs وإرسال طلبات HTTP",
+    "useCase_en": "For API calls and HTTP requests",
+    "imageUrl": "/uploads/1770270117442.png",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 05:41:57.48"
+  },
+  {
+    "id": 50,
+    "name": "zustand",
+    "description_ar": "إدارة حالة بسيطة وقوية",
+    "description_en": "Small, fast state management",
+    "platforms": [
+      "nextjs",
+      "react-native"
+    ],
+    "category": "state",
+    "tags": [
+      "state",
+      "global",
+      "store"
+    ],
+    "level": "beginner",
+    "badges": [
+      "lightweight",
+      "beginner-friendly"
+    ],
+    "npm": "zustand",
+    "stars": 43000,
+    "useCase_ar": "لإدارة الحالة العامة دون تعقيد Redux",
+    "useCase_en": "Manage global state without Redux complexity",
+    "imageUrl": "/uploads/1770270394559.jpg",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 05:46:34.633"
+  },
+  {
+    "id": 51,
+    "name": "react-query",
+    "description_ar": "جلب البيانات وإدارة الكاش بشكل احترافي",
+    "description_en": "Powerful data fetching and caching",
+    "platforms": [
+      "nextjs",
+      "react-native"
+    ],
+    "category": "networking",
+    "tags": [
+      "api",
+      "cache",
+      "data-fetching"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "production-ready",
+      "powerful"
+    ],
+    "npm": "@tanstack/react-query",
+    "stars": 40000,
+    "useCase_ar": "لإدارة البيانات من API مع كاش ذكي",
+    "useCase_en": "Manage API data with smart caching",
+    "imageUrl": "/uploads/1770270706938.jpg",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 05:51:46.997"
+  },
+  {
+    "id": 52,
+    "name": "shadcn/ui",
+    "description_ar": "مكونات UI قابلة للتخصيص بالكامل",
+    "description_en": "Beautifully designed, fully customizable components",
+    "platforms": [
+      "nextjs"
+    ],
+    "category": "ui",
+    "tags": [
+      "ui",
+      "components",
+      "tailwind"
+    ],
+    "level": "beginner",
+    "badges": [
+      "production-ready",
+      "beginner-friendly"
+    ],
+    "npm": "shadcn-ui",
+    "stars": 58000,
+    "useCase_ar": "لبناء واجهات احترافية مع Tailwind CSS",
+    "useCase_en": "Build professional UIs with Tailwind CSS",
+    "imageUrl": "/uploads/1770270512927.png",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 05:48:32.972"
+  },
+  {
+    "id": 53,
+    "name": "prisma",
+    "description_ar": "ORM حديث لقواعد البيانات",
+    "description_en": "Next-generation ORM for Node.js",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "storage",
+    "tags": [
+      "database",
+      "orm",
+      "sql"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "production-ready",
+      "type-safe"
+    ],
+    "npm": "@prisma/client",
+    "stars": 37000,
+    "useCase_ar": "للتعامل مع قواعد البيانات بشكل آمن وسهل",
+    "useCase_en": "Type-safe database access",
+    "imageUrl": "/uploads/1770270653799.png",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 05:50:53.841"
+  },
+  {
+    "id": 54,
+    "name": "electron-builder",
+    "description_ar": "بناء وتوزيع تطبيقات Electron",
+    "description_en": "Complete solution to package Electron apps",
+    "platforms": [
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "build",
+      "packaging",
+      "deploy"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "production-ready",
+      "essential"
+    ],
+    "npm": "electron-builder",
+    "stars": 13500,
+    "useCase_ar": "لتحويل تطبيقك إلى exe, dmg, deb",
+    "useCase_en": "Package your app as exe, dmg, deb",
+    "imageUrl": "/uploads/1770316049018.jpg",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 18:27:29.07"
+  },
+  {
+    "id": 55,
+    "name": "expo",
+    "description_ar": "أسرع طريقة لبناء تطبيقات React Native",
+    "description_en": "The fastest way to build React Native apps",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "tools",
+    "tags": [
+      "framework",
+      "development",
+      "tooling"
+    ],
+    "level": "beginner",
+    "badges": [
+      "production-ready",
+      "beginner-friendly"
+    ],
+    "npm": "expo",
+    "stars": 29000,
+    "useCase_ar": "للبدء السريع دون إعداد معقد",
+    "useCase_en": "Quick start without complex setup",
+    "imageUrl": "/uploads/1770271165630.webp",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 05:59:25.667"
+  },
+  {
+    "id": 56,
+    "name": "date-fns",
+    "description_ar": "مكتبة حديثة للتعامل مع التواريخ",
+    "description_en": "Modern JavaScript date utility library",
+    "platforms": [
+      "electron",
+      "nextjs",
+      "react-native"
+    ],
+    "category": "tools",
+    "tags": [
+      "date",
+      "time",
+      "formatting"
+    ],
+    "level": "beginner",
+    "badges": [
+      "lightweight",
+      "beginner-friendly"
+    ],
+    "npm": "date-fns",
+    "stars": 33000,
+    "useCase_ar": "لتنسيق وحساب التواريخ والأوقات",
+    "useCase_en": "Format and manipulate dates",
+    "imageUrl": "/uploads/1770270585023.png",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 05:49:45.06"
+  },
+  {
+    "id": 57,
+    "name": "electron-updater",
+    "description_ar": "تحديثات تلقائية لتطبيقات Electron",
+    "description_en": "Auto-updates for Electron apps",
+    "platforms": [
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "updates",
+      "auto-update",
+      "deploy"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "production-ready",
+      "essential"
+    ],
+    "npm": "electron-updater",
+    "stars": 2300,
+    "useCase_ar": "لتحديث التطبيق تلقائياً للمستخدمين",
+    "useCase_en": "Auto-update app for users",
+    "imageUrl": "/uploads/1770352986827.webp",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-06 04:43:06.869"
+  },
+  {
+    "id": 58,
+    "name": "recharts",
+    "description_ar": "رسوم بيانية تفاعلية لـ React",
+    "description_en": "Composable charting library for React",
+    "platforms": [
+      "nextjs"
+    ],
+    "category": "ui",
+    "tags": [
+      "charts",
+      "graphs",
+      "visualization"
+    ],
+    "level": "beginner",
+    "badges": [
+      "beginner-friendly",
+      "production-ready"
+    ],
+    "npm": "recharts",
+    "stars": 23000,
+    "useCase_ar": "لعرض البيانات في رسوم بيانية جميلة",
+    "useCase_en": "Display data in beautiful charts",
+    "imageUrl": "/uploads/1770270802962.jpg",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 05:53:23.016"
+  },
+  {
+    "id": 59,
+    "name": "react-native-mmkv",
+    "description_ar": "تخزين محلي فائق السرعة",
+    "description_en": "Fastest key-value storage for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "storage",
+    "tags": [
+      "storage",
+      "performance",
+      "local"
+    ],
+    "level": "beginner",
+    "badges": [
+      "lightweight",
+      "fast"
+    ],
+    "npm": "react-native-mmkv",
+    "stars": 5800,
+    "useCase_ar": "لحفظ البيانات المحلية بسرعة فائقة",
+    "useCase_en": "Ultra-fast local data storage",
+    "imageUrl": "/uploads/1770352725160.png",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-06 04:38:45.193"
+  },
+  {
+    "id": 60,
+    "name": "bcryptjs",
+    "description_ar": "تشفير كلمات المرور بشكل آمن",
+    "description_en": "Secure password hashing",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "security",
+    "tags": [
+      "security",
+      "password",
+      "hash"
+    ],
+    "level": "beginner",
+    "badges": [
+      "production-ready",
+      "essential"
+    ],
+    "npm": "bcryptjs",
+    "stars": 2700,
+    "useCase_ar": "لحفظ كلمات المرور بشكل آمن",
+    "useCase_en": "Store passwords securely",
+    "imageUrl": "/uploads/1770352903818.jpg",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-06 04:41:43.867"
+  },
+  {
+    "id": 61,
+    "name": "socket.io",
+    "description_ar": "مكتبة للتواصل اللحظي بين الخادم والتطبيقات",
+    "description_en": "Library for real-time communication between server and clients",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "networking",
+    "tags": [
+      "realtime",
+      "websocket",
+      "socket.io"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "widely-used",
+      "essential",
+      "production-ready"
+    ],
+    "npm": "socket.io",
+    "stars": 61000,
+    "useCase_ar": "إنشاء تطبيقات دردشة وبث مباشر لحظي",
+    "useCase_en": "Building live chat and real-time applications",
+    "imageUrl": "/uploads/1770314465014.png",
+    "createdAt": "2026-02-05 18:01:05.097",
+    "updatedAt": "2026-02-05 18:01:05.097"
+  },
+  {
+    "id": 62,
+    "name": "socket.io-client",
+    "description_ar": "عميل Socket.io للتواصل اللحظي من جهة المستخدم",
+    "description_en": "Socket.io client for real-time communication",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "networking",
+    "tags": [
+      "realtime",
+      "websocket",
+      "socket.io"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential",
+      "widely-used"
+    ],
+    "npm": "socket.io-client",
+    "stars": 18000,
+    "useCase_ar": "الاتصال بخادم Socket.io من التطبيق أو المتصفح",
+    "useCase_en": "Connecting to Socket.io server from app or browser",
+    "imageUrl": "/uploads/1770315722163.png",
+    "createdAt": "2026-02-05 18:22:02.203",
+    "updatedAt": "2026-02-05 18:22:02.203"
+  },
+  {
+    "id": 63,
+    "name": "yup",
+    "description_ar": "مكتبة للتحقق من صحة البيانات والنماذج",
+    "description_en": "Library for data and form validation",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "tools",
+    "tags": [
+      "validation",
+      "forms",
+      "schema"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "widely-used",
+      "essential"
+    ],
+    "npm": "yup",
+    "stars": 28000,
+    "useCase_ar": "التحقق من صحة المدخلات والنماذج",
+    "useCase_en": "Validating user input and forms",
+    "imageUrl": "/uploads/1770314742495.png",
+    "createdAt": "2026-02-05 18:05:42.547",
+    "updatedAt": "2026-02-05 18:05:42.547"
+  },
+  {
+    "id": 64,
+    "name": "multer",
+    "description_ar": "مكتبة لمعالجة رفع الملفات في Node.js",
+    "description_en": "Middleware for handling file uploads in Node.js",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "upload",
+      "files",
+      "nodejs"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "widely-used",
+      "essential"
+    ],
+    "npm": "multer",
+    "stars": 22000,
+    "useCase_ar": "رفع ومعالجة الملفات من المستخدمين",
+    "useCase_en": "Handling user file uploads on the server",
+    "imageUrl": "/uploads/1770315392808.jpg",
+    "createdAt": "2026-02-05 18:16:32.881",
+    "updatedAt": "2026-02-05 18:16:32.881"
+  },
+  {
+    "id": 65,
+    "name": "jsonwebtoken",
+    "description_ar": "مكتبة لإنشاء والتحقق من رموز JWT للمصادقة",
+    "description_en": "Library for creating and verifying JWT tokens",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "security",
+    "tags": [
+      "auth",
+      "jwt",
+      "security"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential",
+      "widely-used"
+    ],
+    "npm": "jsonwebtoken",
+    "stars": 20000,
+    "useCase_ar": "إدارة تسجيل الدخول والجلسات",
+    "useCase_en": "Handling authentication and sessions",
+    "imageUrl": "/uploads/1770315532314.png",
+    "createdAt": "2026-02-05 18:18:52.355",
+    "updatedAt": "2026-02-05 18:18:52.355"
+  },
+  {
+    "id": 66,
+    "name": "swr",
+    "description_ar": "جلب البيانات مع كاش تلقائي",
+    "description_en": "React Hooks for data fetching",
+    "platforms": [
+      "nextjs",
+      "react-native"
+    ],
+    "category": "networking",
+    "tags": [
+      "api",
+      "cache",
+      "hooks"
+    ],
+    "level": "beginner",
+    "badges": [
+      "lightweight",
+      "beginner-friendly"
+    ],
+    "npm": "swr",
+    "stars": 29000,
+    "useCase_ar": "لجلب البيانات بطريقة بسيطة مع كاش",
+    "useCase_en": "Fetch data simply with caching",
+    "imageUrl": "/uploads/1770271047703.png",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 05:57:27.751"
+  },
+  {
+    "id": 67,
+    "name": "next-auth",
+    "description_ar": "مصادقة كاملة لتطبيقات Next.js",
+    "description_en": "Complete authentication solution for Next.js",
+    "platforms": [
+      "nextjs"
+    ],
+    "category": "security",
+    "tags": [
+      "auth",
+      "oauth",
+      "jwt"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "production-ready",
+      "widely-used"
+    ],
+    "npm": "next-auth",
+    "stars": 22000,
+    "useCase_ar": "لإضافة تسجيل دخول متعدد (Google, GitHub, etc)",
+    "useCase_en": "Add multiple login providers (Google, GitHub, etc)",
+    "imageUrl": "/uploads/1770271560228.png",
+    "createdAt": "2026-02-04 14:00:00",
+    "updatedAt": "2026-02-05 06:06:00.263"
+  },
+  {
+    "id": 68,
+    "name": "expo-file-system",
+    "description_ar": "مكتبة لإدارة الملفات داخل تطبيقات Expo وReact Native",
+    "description_en": "Library to handle files in Expo and React Native apps",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "storage",
+    "tags": [
+      "files",
+      "filesystem",
+      "expo"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "essential"
+    ],
+    "npm": "expo-file-system",
+    "stars": 6000,
+    "useCase_ar": "قراءة وكتابة الملفات محلياً في التطبيقات",
+    "useCase_en": "Reading and writing files locally in apps",
+    "imageUrl": "/uploads/1770352677631.png",
+    "createdAt": "2026-02-06 04:37:57.779",
+    "updatedAt": "2026-02-06 04:37:57.779"
+  },
+  {
+    "id": 69,
+    "name": "expo-image-picker",
+    "description_ar": "مكتبة لاختيار الصور والفيديو من الجهاز في Expo",
+    "description_en": "Library for picking images and videos from device in Expo",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "images",
+      "picker",
+      "expo"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential",
+      "widely-used"
+    ],
+    "npm": "expo-image-picker",
+    "stars": 6500,
+    "useCase_ar": "تمكين المستخدم من اختيار الصور والفيديو داخل التطبيق",
+    "useCase_en": "Allow users to pick images and videos inside the app",
+    "imageUrl": "/uploads/1770352471553.png",
+    "createdAt": "2026-02-06 04:34:31.6",
+    "updatedAt": "2026-02-06 04:34:31.6"
+  },
+  {
+    "id": 70,
+    "name": "react-native-vector-icons",
+    "description_ar": "مكتبة أيقونات شهيرة وقابلة للتخصيص في React Native",
+    "description_en": "Popular and customizable icon library for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "icons",
+      "react-native",
+      "ui"
+    ],
+    "level": "beginner",
+    "badges": [
+      "widely-used",
+      "essential"
+    ],
+    "npm": "react-native-vector-icons",
+    "stars": 21000,
+    "useCase_ar": "إضافة أيقونات جاهزة وقابلة للتخصيص لتطبيقات الموبايل",
+    "useCase_en": "Adding ready-to-use customizable icons to mobile apps",
+    "imageUrl": "/uploads/1770315227948.png",
+    "createdAt": "2026-02-05 18:13:48.005",
+    "updatedAt": "2026-02-05 18:13:48.005"
+  },
+  {
+    "id": 71,
+    "name": "express",
+    "description_ar": "إطار عمل لبناء API وتطبيقات الويب باستخدام Node.js",
+    "description_en": "Fast web framework for Node.js",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "networking",
+    "tags": [
+      "api",
+      "server",
+      "backend"
+    ],
+    "level": "beginner",
+    "badges": [
+      "production-ready",
+      "widely-used",
+      "essential"
+    ],
+    "npm": "express",
+    "stars": 65000,
+    "useCase_ar": "إنشاء REST API وخوادم backend",
+    "useCase_en": "Building REST APIs and backend services",
+    "imageUrl": "/uploads/1770313569704.jpg",
+    "createdAt": "2026-02-05 17:46:09.759",
+    "updatedAt": "2026-02-05 17:46:09.759"
+  },
+  {
+    "id": 72,
+    "name": "mongoose",
+    "description_ar": "مكتبة ORM للتعامل مع MongoDB في Node.js",
+    "description_en": "MongoDB object modeling tool for Node.js",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "storage",
+    "tags": [
+      "mongodb",
+      "database",
+      "orm"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "production-ready",
+      "essential",
+      "widely-used"
+    ],
+    "npm": "mongoose",
+    "stars": 28000,
+    "useCase_ar": "إدارة قواعد بيانات MongoDB",
+    "useCase_en": "Managing MongoDB databases",
+    "imageUrl": "/uploads/1770314700895.png",
+    "createdAt": "2026-02-05 18:05:00.944",
+    "updatedAt": "2026-02-05 18:05:00.944"
+  },
+  {
+    "id": 73,
+    "name": "sqlite3",
+    "description_ar": "مكتبة قاعدة بيانات خفيفة تعمل محلياً بدون خادم",
+    "description_en": "Lightweight embedded SQL database",
+    "platforms": [
+      "electron",
+      "react-native"
+    ],
+    "category": "storage",
+    "tags": [
+      "database",
+      "offline",
+      "sql"
+    ],
+    "level": "beginner",
+    "badges": [
+      "lightweight",
+      "essential"
+    ],
+    "npm": "sqlite3",
+    "stars": 5600,
+    "useCase_ar": "تخزين البيانات محلياً بدون إنترنت",
+    "useCase_en": "Local offline data storage",
+    "imageUrl": "/uploads/1770352766384.png",
+    "createdAt": "2026-02-06 04:39:26.434",
+    "updatedAt": "2026-02-06 04:39:26.434"
+  },
+  {
+    "id": 74,
+    "name": "sequelize",
+    "description_ar": "ORM لإدارة قواعد بيانات SQL في Node.js",
+    "description_en": "Promise-based ORM for SQL databases",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "storage",
+    "tags": [
+      "sql",
+      "orm",
+      "database"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "production-ready",
+      "widely-used"
+    ],
+    "npm": "sequelize",
+    "stars": 29000,
+    "useCase_ar": "التعامل مع MySQL وSQLite وPostgreSQL",
+    "useCase_en": "Managing SQL databases with Node.js",
+    "imageUrl": "/uploads/1770314780961.png",
+    "createdAt": "2026-02-05 18:06:21.012",
+    "updatedAt": "2026-02-05 18:06:21.012"
+  },
+  {
+    "id": 75,
+    "name": "react",
+    "description_ar": "مكتبة لبناء واجهات المستخدم التفاعلية",
+    "description_en": "Library for building user interfaces",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "frontend",
+      "ui",
+      "components"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential",
+      "widely-used"
+    ],
+    "npm": "react",
+    "stars": 230000,
+    "useCase_ar": "بناء واجهات المستخدم",
+    "useCase_en": "Building interactive UIs",
+    "imageUrl": "/uploads/1770313145797.png",
+    "createdAt": "2026-02-05 17:39:05.845",
+    "updatedAt": "2026-02-05 17:39:05.845"
+  },
+  {
+    "id": 76,
+    "name": "next",
+    "description_ar": "إطار عمل React لتطبيقات الويب الحديثة",
+    "description_en": "React framework for production web apps",
+    "platforms": [
+      "nextjs"
+    ],
+    "category": "tools",
+    "tags": [
+      "ssr",
+      "react",
+      "framework"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "production-ready",
+      "widely-used"
+    ],
+    "npm": "next",
+    "stars": 125000,
+    "useCase_ar": "بناء مواقع React سريعة ومحسّنة",
+    "useCase_en": "Building fast and optimized React websites",
+    "imageUrl": "/uploads/1770313423950.png",
+    "createdAt": "2026-02-05 17:43:44.009",
+    "updatedAt": "2026-02-05 17:43:44.009"
+  },
+  {
+    "id": 77,
+    "name": "expo",
+    "description_ar": "منصة لتطوير تطبيقات React Native بسهولة",
+    "description_en": "Platform for building React Native apps",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "tools",
+    "tags": [
+      "mobile",
+      "react-native"
+    ],
+    "level": "beginner",
+    "badges": [
+      "production-ready",
+      "widely-used"
+    ],
+    "npm": "expo",
+    "stars": 53000,
+    "useCase_ar": "تسريع تطوير تطبيقات الموبايل",
+    "useCase_en": "Speeding up mobile app development",
+    "imageUrl": "/uploads/1770314516955.png",
+    "createdAt": "2026-02-05 18:01:57.001",
+    "updatedAt": "2026-02-05 18:01:57.001"
+  },
+  {
+    "id": 78,
+    "name": "cors",
+    "description_ar": "ميدل وير لإدارة سياسات CORS في السيرفر",
+    "description_en": "Middleware to enable CORS in servers",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "security",
+    "tags": [
+      "cors",
+      "security",
+      "api"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential",
+      "widely-used"
+    ],
+    "npm": "cors",
+    "stars": 6200,
+    "useCase_ar": "السماح بالاتصال بين الدومينات",
+    "useCase_en": "Allowing cross-origin requests",
+    "imageUrl": "",
+    "createdAt": "2026-02-12 21:44:08.329",
+    "updatedAt": "2026-02-12 21:44:08.329"
+  },
+  {
+    "id": 79,
+    "name": "dotenv",
+    "description_ar": "تحميل متغيرات البيئة من ملف env",
+    "description_en": "Loads environment variables from .env file",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "tools",
+    "tags": [
+      "env",
+      "config",
+      "security"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential",
+      "widely-used"
+    ],
+    "npm": "dotenv",
+    "stars": 18000,
+    "useCase_ar": "إدارة الإعدادات الحساسة بشكل آمن",
+    "useCase_en": "Managing sensitive configuration securely",
+    "imageUrl": "/uploads/1770315796606.png",
+    "createdAt": "2026-02-05 18:23:16.67",
+    "updatedAt": "2026-02-05 18:23:16.67"
+  },
+  {
+    "id": 80,
+    "name": "morgan",
+    "description_ar": "مكتبة لتسجيل طلبات HTTP في السيرفر",
+    "description_en": "HTTP request logger middleware",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "logging",
+      "server"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential"
+    ],
+    "npm": "morgan",
+    "stars": 7700,
+    "useCase_ar": "مراقبة طلبات السيرفر أثناء التطوير",
+    "useCase_en": "Logging server requests during development",
+    "imageUrl": "/uploads/1770352339425.png",
+    "createdAt": "2026-02-06 04:32:19.459",
+    "updatedAt": "2026-02-06 04:32:19.459"
+  },
+  {
+    "id": 81,
+    "name": "nodemon",
+    "description_ar": "أداة لإعادة تشغيل السيرفر تلقائياً عند التعديل",
+    "description_en": "Tool that restarts server on file changes",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "dev",
+      "server",
+      "automation"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential",
+      "widely-used"
+    ],
+    "npm": "nodemon",
+    "stars": 27000,
+    "useCase_ar": "تسريع عملية التطوير بدون إعادة تشغيل يدوي",
+    "useCase_en": "Speeding up development workflow",
+    "imageUrl": "/uploads/1770314921074.png",
+    "createdAt": "2026-02-05 18:08:41.113",
+    "updatedAt": "2026-02-05 18:08:41.113"
+  },
+  {
+    "id": 82,
+    "name": "express-validator",
+    "description_ar": "مكتبة للتحقق من صحة البيانات في Express",
+    "description_en": "Validation middleware for Express",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "security",
+    "tags": [
+      "validation",
+      "security",
+      "forms"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "essential"
+    ],
+    "npm": "express-validator",
+    "stars": 7800,
+    "useCase_ar": "التحقق من صحة بيانات المستخدم",
+    "useCase_en": "Validating user input on server",
+    "imageUrl": "/uploads/1770352248566.png",
+    "createdAt": "2026-02-06 04:30:48.609",
+    "updatedAt": "2026-02-06 04:30:48.609"
+  },
+  {
+    "id": 83,
+    "name": "formik",
+    "description_ar": "مكتبة لإدارة النماذج في React",
+    "description_en": "Form management library for React",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "forms",
+      "react",
+      "ui"
+    ],
+    "level": "beginner",
+    "badges": [
+      "widely-used"
+    ],
+    "npm": "formik",
+    "stars": 33000,
+    "useCase_ar": "إدارة النماذج والتحقق من المدخلات",
+    "useCase_en": "Handling forms and validation",
+    "imageUrl": "/uploads/1770314634751.png",
+    "createdAt": "2026-02-05 18:03:54.801",
+    "updatedAt": "2026-02-05 18:03:54.801"
+  },
+  {
+    "id": 84,
+    "name": "react-router-dom",
+    "description_ar": "مكتبة لإدارة التنقل بين الصفحات في React",
+    "description_en": "Routing library for React web apps",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "routing",
+      "navigation",
+      "react"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential",
+      "widely-used"
+    ],
+    "npm": "react-router-dom",
+    "stars": 54000,
+    "useCase_ar": "إنشاء تنقل وصفحات متعددة",
+    "useCase_en": "Managing navigation and routes",
+    "imageUrl": "/uploads/1770313833168.png",
+    "createdAt": "2026-02-05 17:50:33.239",
+    "updatedAt": "2026-02-05 17:50:33.239"
+  },
+  {
+    "id": 85,
+    "name": "lucide-react",
+    "description_ar": "مكتبة أيقونات حديثة وخفيفة لـ React",
+    "description_en": "Modern and lightweight icon library for React",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "icons",
+      "ui",
+      "react"
+    ],
+    "level": "beginner",
+    "badges": [
+      "lightweight"
+    ],
+    "npm": "lucide-react",
+    "stars": 15000,
+    "useCase_ar": "إضافة أيقونات نظيفة وسريعة",
+    "useCase_en": "Adding clean and fast icons",
+    "imageUrl": "/uploads/1770315917273.png",
+    "createdAt": "2026-02-05 18:25:17.299",
+    "updatedAt": "2026-02-05 18:25:17.299"
+  },
+  {
+    "id": 86,
+    "name": "tailwindcss",
+    "description_ar": "إطار CSS حديث لبناء واجهات بسرعة باستخدام utility classes",
+    "description_en": "Utility-first CSS framework for rapid UI development",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "ui",
+    "tags": [
+      "css",
+      "ui",
+      "tailwind"
+    ],
+    "level": "beginner",
+    "badges": [
+      "widely-used",
+      "essential"
+    ],
+    "npm": "tailwindcss",
+    "stars": 82000,
+    "useCase_ar": "تصميم واجهات حديثة بسرعة عالية",
+    "useCase_en": "Building modern UIs quickly",
+    "imageUrl": "/uploads/1770313537502.jpg",
+    "createdAt": "2026-02-05 17:45:37.557",
+    "updatedAt": "2026-02-05 17:45:37.557"
+  },
+  {
+    "id": 87,
+    "name": "class-variance-authority",
+    "description_ar": "إدارة متغيرات CSS classes بشكل منظم في React",
+    "description_en": "Utility for managing class variants in React",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "ui",
+    "tags": [
+      "css",
+      "tailwind",
+      "classes"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "lightweight"
+    ],
+    "npm": "class-variance-authority",
+    "stars": 9000,
+    "useCase_ar": "تنظيم أنماط Tailwind المعقدة",
+    "useCase_en": "Managing complex Tailwind class variants",
+    "imageUrl": "/uploads/1770352035145.png",
+    "createdAt": "2026-02-06 04:27:15.183",
+    "updatedAt": "2026-02-06 04:27:15.183"
+  },
+  {
+    "id": 88,
+    "name": "clsx",
+    "description_ar": "مكتبة خفيفة لدمج CSS classes شرطياً",
+    "description_en": "Tiny utility for conditional classNames",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "css",
+      "classnames"
+    ],
+    "level": "beginner",
+    "badges": [
+      "lightweight",
+      "essential"
+    ],
+    "npm": "clsx",
+    "stars": 8000,
+    "useCase_ar": "دمج الكلاسات بشكل ديناميكي",
+    "useCase_en": "Conditionally combining class names",
+    "imageUrl": "/uploads/1770352115141.jpg",
+    "createdAt": "2026-02-06 04:28:35.265",
+    "updatedAt": "2026-02-06 04:28:35.265"
+  },
+  {
+    "id": 89,
+    "name": "@radix-ui/react-slot",
+    "description_ar": "مكوّن مرن لبناء UI قابل لإعادة الاستخدام",
+    "description_en": "Composable primitive for building reusable UI",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "ui",
+    "tags": [
+      "ui",
+      "radix",
+      "components"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "powerful"
+    ],
+    "npm": "@radix-ui/react-slot",
+    "stars": 12000,
+    "useCase_ar": "بناء مكونات UI مرنة وقابلة للتخصيص",
+    "useCase_en": "Building flexible and reusable UI components",
+    "imageUrl": "/uploads/1770316130775.png",
+    "createdAt": "2026-02-05 18:28:50.822",
+    "updatedAt": "2026-02-05 18:28:50.822"
+  },
+  {
+    "id": 90,
+    "name": "@radix-ui/react-switch",
+    "description_ar": "مكوّن Switch جاهز ويمكن تخصيصه في React",
+    "description_en": "Accessible switch component for React",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "ui",
+    "tags": [
+      "ui",
+      "toggle",
+      "radix"
+    ],
+    "level": "beginner",
+    "badges": [
+      "production-ready"
+    ],
+    "npm": "@radix-ui/react-switch",
+    "stars": 11000,
+    "useCase_ar": "إضافة أزرار تبديل جاهزة وسهلة الاستخدام",
+    "useCase_en": "Adding accessible toggle switches",
+    "imageUrl": "/uploads/1770351898159.png",
+    "createdAt": "2026-02-06 04:24:58.205",
+    "updatedAt": "2026-02-06 04:24:58.205"
+  },
+  {
+    "id": 91,
+    "name": "@editorjs/editorjs",
+    "description_ar": "محرر محتوى غني وقابل للتوسعة",
+    "description_en": "Block-style rich text editor",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "editor",
+      "content",
+      "blocks"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "powerful",
+      "widely-used"
+    ],
+    "npm": "@editorjs/editorjs",
+    "stars": 27000,
+    "useCase_ar": "إنشاء محرر محتوى متقدم للتدوين",
+    "useCase_en": "Building advanced content editors",
+    "imageUrl": "/uploads/1770314876863.png",
+    "createdAt": "2026-02-05 18:07:56.932",
+    "updatedAt": "2026-02-05 18:07:56.932"
+  },
+  {
+    "id": 92,
+    "name": "better-sqlite3",
+    "description_ar": "مكتبة SQLite سريعة ومتزامنة لـ Node.js",
+    "description_en": "Fast and synchronous SQLite library",
+    "platforms": [
+      "electron"
+    ],
+    "category": "storage",
+    "tags": [
+      "sqlite",
+      "database",
+      "offline"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "fast",
+      "production-ready"
+    ],
+    "npm": "better-sqlite3",
+    "stars": 7000,
+    "useCase_ar": "تخزين البيانات محلياً في تطبيقات Electron",
+    "useCase_en": "Local database storage in Electron apps",
+    "imageUrl": "/uploads/1770352592767.png",
+    "createdAt": "2026-02-06 04:36:32.826",
+    "updatedAt": "2026-02-06 04:36:32.826"
+  },
+  {
+    "id": 93,
+    "name": "@emotion/react",
+    "description_ar": "مكتبة CSS-in-JS لكتابة الأنماط داخل React",
+    "description_en": "CSS-in-JS library for styling React components",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "ui",
+    "tags": [
+      "css",
+      "styling",
+      "emotion"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "widely-used",
+      "powerful"
+    ],
+    "npm": "@emotion/react",
+    "stars": 17000,
+    "useCase_ar": "كتابة أنماط ديناميكية داخل مكونات React",
+    "useCase_en": "Styling React components with dynamic styles",
+    "imageUrl": "/uploads/1770315871469.png",
+    "createdAt": "2026-02-05 18:24:31.53",
+    "updatedAt": "2026-02-05 18:24:31.53"
+  },
+  {
+    "id": 94,
+    "name": "@mui/material",
+    "description_ar": "مكتبة مكونات UI جاهزة مبنية على Material Design",
+    "description_en": "React UI components based on Material Design",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "ui",
+    "tags": [
+      "mui",
+      "material",
+      "ui"
+    ],
+    "level": "beginner",
+    "badges": [
+      "widely-used",
+      "production-ready"
+    ],
+    "npm": "@mui/material",
+    "stars": 92000,
+    "useCase_ar": "بناء واجهات احترافية بسرعة",
+    "useCase_en": "Building professional UIs quickly",
+    "imageUrl": "/uploads/1770313499191.png",
+    "createdAt": "2026-02-05 17:44:59.253",
+    "updatedAt": "2026-02-05 17:44:59.253"
+  },
+  {
+    "id": 95,
+    "name": "graphql",
+    "description_ar": "لغة استعلام لإدارة وتبادل البيانات بين العميل والخادم",
+    "description_en": "Query language for APIs",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "networking",
+    "tags": [
+      "graphql",
+      "api",
+      "data"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "widely-used",
+      "essential"
+    ],
+    "npm": "graphql",
+    "stars": 20000,
+    "useCase_ar": "إنشاء APIs مرنة وقوية",
+    "useCase_en": "Building flexible and efficient APIs",
+    "imageUrl": "/uploads/1770315494502.png",
+    "createdAt": "2026-02-05 18:18:14.552",
+    "updatedAt": "2026-02-05 18:18:14.552"
+  },
+  {
+    "id": 96,
+    "name": "react-hook-form",
+    "description_ar": "مكتبة خفيفة وسريعة لإدارة النماذج في React",
+    "description_en": "Performant forms library for React",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "forms",
+      "react"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "fast",
+      "widely-used"
+    ],
+    "npm": "react-hook-form",
+    "stars": 40000,
+    "useCase_ar": "إدارة النماذج بكفاءة عالية",
+    "useCase_en": "Handling complex forms efficiently",
+    "imageUrl": "/uploads/1770314567127.png",
+    "createdAt": "2026-02-05 18:02:47.195",
+    "updatedAt": "2026-02-05 18:02:47.195"
+  },
+  {
+    "id": 97,
+    "name": "jose",
+    "description_ar": "مكتبة حديثة للتعامل مع JWT و JWE و JWS",
+    "description_en": "Modern library for JWT, JWE, and JWS",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "security",
+    "tags": [
+      "jwt",
+      "security",
+      "auth"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "powerful"
+    ],
+    "npm": "jose",
+    "stars": 5000,
+    "useCase_ar": "إدارة التوكنات والتشفير بأمان",
+    "useCase_en": "Handling tokens and cryptography securely",
+    "imageUrl": "/uploads/1770352799481.jpg",
+    "createdAt": "2026-02-06 04:39:59.512",
+    "updatedAt": "2026-02-06 04:39:59.512"
+  },
+  {
+    "id": 98,
+    "name": "groq-sdk",
+    "description_ar": "SDK للتعامل مع نماذج Groq للذكاء الاصطناعي",
+    "description_en": "SDK for interacting with Groq AI models",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "ai",
+      "sdk",
+      "llm"
+    ],
+    "level": "advanced",
+    "badges": [
+      "powerful"
+    ],
+    "npm": "groq-sdk",
+    "stars": 1500,
+    "useCase_ar": "دمج نماذج ذكاء اصطناعي داخل التطبيقات",
+    "useCase_en": "Integrating AI models into applications",
+    "imageUrl": "/uploads/1770353075321.png",
+    "createdAt": "2026-02-06 04:44:35.358",
+    "updatedAt": "2026-02-06 04:44:35.358"
+  },
+  {
+    "id": 99,
+    "name": "react-native-gesture-handler",
+    "description_ar": "مكتبة لإدارة الإيماءات المتقدمة في React Native",
+    "description_en": "Gesture handling library for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "gestures",
+      "mobile",
+      "ui"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "essential",
+      "widely-used"
+    ],
+    "npm": "react-native-gesture-handler",
+    "stars": 23000,
+    "useCase_ar": "إدارة السحب والنقر والحركات المتقدمة",
+    "useCase_en": "Handling advanced touch gestures",
+    "imageUrl": "/uploads/1770315145837.webp",
+    "createdAt": "2026-02-05 18:12:25.888",
+    "updatedAt": "2026-02-05 18:12:25.888"
+  },
+  {
+    "id": 100,
+    "name": "react-native-reanimated",
+    "description_ar": "مكتبة أنيميشن عالية الأداء لـ React Native",
+    "description_en": "High-performance animation library for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "animation",
+    "tags": [
+      "animation",
+      "mobile"
+    ],
+    "level": "advanced",
+    "badges": [
+      "powerful",
+      "fast"
+    ],
+    "npm": "react-native-reanimated",
+    "stars": 14000,
+    "useCase_ar": "إنشاء حركات سلسة ومعقدة",
+    "useCase_en": "Creating smooth and complex animations",
+    "imageUrl": "",
+    "createdAt": "2026-02-12 21:47:20.901",
+    "updatedAt": "2026-02-12 21:47:20.901"
+  },
+  {
+    "id": 101,
+    "name": "react-native-safe-area-context",
+    "description_ar": "إدارة المساحات الآمنة للشاشات في React Native",
+    "description_en": "Safe area handling for React Native apps",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "layout",
+      "mobile",
+      "safe-area"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential"
+    ],
+    "npm": "react-native-safe-area-context",
+    "stars": 6000,
+    "useCase_ar": "ضبط الواجهات حسب أحجام الشاشات",
+    "useCase_en": "Adjusting layouts for different screens",
+    "imageUrl": "/uploads/1770352651194.webp",
+    "createdAt": "2026-02-06 04:37:31.234",
+    "updatedAt": "2026-02-06 04:37:31.234"
+  },
+  {
+    "id": 102,
+    "name": "react-native-screens",
+    "description_ar": "تحسين أداء التنقل بين الشاشات",
+    "description_en": "Native screen management for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "performance",
+    "tags": [
+      "navigation",
+      "performance"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "fast"
+    ],
+    "npm": "react-native-screens",
+    "stars": 8000,
+    "useCase_ar": "تحسين أداء التنقل بين الصفحات",
+    "useCase_en": "Improving navigation performance",
+    "imageUrl": "/uploads/1770352196639.png",
+    "createdAt": "2026-02-06 04:29:56.684",
+    "updatedAt": "2026-02-06 04:29:56.684"
+  },
+  {
+    "id": 103,
+    "name": "react-native-svg",
+    "description_ar": "دعم SVG داخل تطبيقات React Native",
+    "description_en": "SVG support for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "svg",
+      "graphics"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential"
+    ],
+    "npm": "react-native-svg",
+    "stars": 10000,
+    "useCase_ar": "عرض الرسومات المتجهة داخل التطبيق",
+    "useCase_en": "Rendering vector graphics",
+    "imageUrl": "/uploads/1770351994507.png",
+    "createdAt": "2026-02-06 04:26:34.555",
+    "updatedAt": "2026-02-06 04:26:34.555"
+  },
+  {
+    "id": 104,
+    "name": "native-base",
+    "description_ar": "مكتبة UI جاهزة لتطبيقات React Native",
+    "description_en": "UI component library for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "components",
+      "mobile",
+      "ui"
+    ],
+    "level": "beginner",
+    "badges": [
+      "widely-used"
+    ],
+    "npm": "native-base",
+    "stars": 20000,
+    "useCase_ar": "بناء واجهات جاهزة وسريعة",
+    "useCase_en": "Building ready-to-use mobile interfaces",
+    "imageUrl": "/uploads/1770315672375.png",
+    "createdAt": "2026-02-05 18:21:12.394",
+    "updatedAt": "2026-02-05 18:21:12.394"
+  },
+  {
+    "id": 105,
+    "name": "electron-squirrel-startup",
+    "description_ar": "أداة لإدارة التثبيت والتحديث في تطبيقات Electron",
+    "description_en": "Installer and updater helper for Electron apps",
+    "platforms": [
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "electron",
+      "installer"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "essential"
+    ],
+    "npm": "electron-squirrel-startup",
+    "stars": 1600,
+    "useCase_ar": "تبسيط عملية تثبيت تطبيقات Electron",
+    "useCase_en": "Simplifying Electron app installation",
+    "imageUrl": "/uploads/1770353083211.ico",
+    "createdAt": "2026-02-06 04:44:43.247",
+    "updatedAt": "2026-02-06 04:44:43.247"
+  },
+  {
+    "id": 106,
+    "name": "openai",
+    "description_ar": "SDK للتعامل مع نماذج OpenAI",
+    "description_en": "SDK for interacting with OpenAI models",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "ai",
+      "openai",
+      "llm"
+    ],
+    "level": "advanced",
+    "badges": [
+      "powerful",
+      "production-ready"
+    ],
+    "npm": "openai",
+    "stars": 25000,
+    "useCase_ar": "دمج الذكاء الاصطناعي داخل التطبيقات",
+    "useCase_en": "Integrating AI capabilities into apps",
+    "imageUrl": "/uploads/1770314820499.png",
+    "createdAt": "2026-02-05 18:07:00.545",
+    "updatedAt": "2026-02-05 18:07:00.545"
+  },
+  {
+    "id": 107,
+    "name": "react-media-recorder",
+    "description_ar": "تسجيل الصوت والفيديو داخل تطبيقات React",
+    "description_en": "Audio and video recording for React apps",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "media",
+      "recording"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "useful"
+    ],
+    "npm": "react-media-recorder",
+    "stars": 3000,
+    "useCase_ar": "تسجيل الصوت والفيديو من المتصفح",
+    "useCase_en": "Recording audio and video from browser",
+    "imageUrl": "/uploads/1770352932938.png",
+    "createdAt": "2026-02-06 04:42:12.985",
+    "updatedAt": "2026-02-06 04:42:12.985"
+  },
+  {
+    "id": 108,
+    "name": "clsx",
+    "description_ar": "مكتبة خفيفة لدمج CSS classes شرطياً",
+    "description_en": "Tiny utility for conditional classNames",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "css",
+      "classnames"
+    ],
+    "level": "beginner",
+    "badges": [
+      "lightweight",
+      "essential"
+    ],
+    "npm": "clsx",
+    "stars": 8000,
+    "useCase_ar": "دمج الكلاسات بشكل ديناميكي",
+    "useCase_en": "Conditionally combining class names",
+    "imageUrl": "/uploads/1770352115141.jpg",
+    "createdAt": "2026-02-06 04:28:35.265",
+    "updatedAt": "2026-02-06 04:28:35.265"
+  },
+  {
+    "id": 109,
+    "name": "@radix-ui/react-slot",
+    "description_ar": "مكوّن مرن لبناء UI قابل لإعادة الاستخدام",
+    "description_en": "Composable primitive for building reusable UI",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "ui",
+    "tags": [
+      "ui",
+      "radix",
+      "components"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "powerful"
+    ],
+    "npm": "@radix-ui/react-slot",
+    "stars": 12000,
+    "useCase_ar": "بناء مكونات UI مرنة وقابلة للتخصيص",
+    "useCase_en": "Building flexible and reusable UI components",
+    "imageUrl": "/uploads/1770316130775.png",
+    "createdAt": "2026-02-05 18:28:50.822",
+    "updatedAt": "2026-02-05 18:28:50.822"
+  },
+  {
+    "id": 110,
+    "name": "@radix-ui/react-switch",
+    "description_ar": "مكوّن Switch جاهز ويمكن تخصيصه في React",
+    "description_en": "Accessible switch component for React",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "ui",
+    "tags": [
+      "ui",
+      "toggle",
+      "radix"
+    ],
+    "level": "beginner",
+    "badges": [
+      "production-ready"
+    ],
+    "npm": "@radix-ui/react-switch",
+    "stars": 11000,
+    "useCase_ar": "إضافة أزرار تبديل جاهزة وسهلة الاستخدام",
+    "useCase_en": "Adding accessible toggle switches",
+    "imageUrl": "/uploads/1770351898159.png",
+    "createdAt": "2026-02-06 04:24:58.205",
+    "updatedAt": "2026-02-06 04:24:58.205"
+  },
+  {
+    "id": 111,
+    "name": "@editorjs/editorjs",
+    "description_ar": "محرر محتوى غني وقابل للتوسعة",
+    "description_en": "Block-style rich text editor",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "editor",
+      "content",
+      "blocks"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "powerful",
+      "widely-used"
+    ],
+    "npm": "@editorjs/editorjs",
+    "stars": 27000,
+    "useCase_ar": "إنشاء محرر محتوى متقدم للتدوين",
+    "useCase_en": "Building advanced content editors",
+    "imageUrl": "/uploads/1770314876863.png",
+    "createdAt": "2026-02-05 18:07:56.932",
+    "updatedAt": "2026-02-05 18:07:56.932"
+  },
+  {
+    "id": 112,
+    "name": "better-sqlite3",
+    "description_ar": "مكتبة SQLite سريعة ومتزامنة لـ Node.js",
+    "description_en": "Fast and synchronous SQLite library",
+    "platforms": [
+      "electron"
+    ],
+    "category": "storage",
+    "tags": [
+      "sqlite",
+      "database",
+      "offline"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "fast",
+      "production-ready"
+    ],
+    "npm": "better-sqlite3",
+    "stars": 7000,
+    "useCase_ar": "تخزين البيانات محلياً في تطبيقات Electron",
+    "useCase_en": "Local database storage in Electron apps",
+    "imageUrl": "/uploads/1770352592767.png",
+    "createdAt": "2026-02-06 04:36:32.826",
+    "updatedAt": "2026-02-06 04:36:32.826"
+  },
+  {
+    "id": 113,
+    "name": "@emotion/react",
+    "description_ar": "مكتبة CSS-in-JS لكتابة الأنماط داخل React",
+    "description_en": "CSS-in-JS library for styling React components",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "ui",
+    "tags": [
+      "css",
+      "styling",
+      "emotion"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "widely-used",
+      "powerful"
+    ],
+    "npm": "@emotion/react",
+    "stars": 17000,
+    "useCase_ar": "كتابة أنماط ديناميكية داخل مكونات React",
+    "useCase_en": "Styling React components with dynamic styles",
+    "imageUrl": "/uploads/1770315871469.png",
+    "createdAt": "2026-02-05 18:24:31.53",
+    "updatedAt": "2026-02-05 18:24:31.53"
+  },
+  {
+    "id": 114,
+    "name": "@mui/material",
+    "description_ar": "مكتبة مكونات UI جاهزة مبنية على Material Design",
+    "description_en": "React UI components based on Material Design",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "ui",
+    "tags": [
+      "mui",
+      "material",
+      "ui"
+    ],
+    "level": "beginner",
+    "badges": [
+      "widely-used",
+      "production-ready"
+    ],
+    "npm": "@mui/material",
+    "stars": 92000,
+    "useCase_ar": "بناء واجهات احترافية بسرعة",
+    "useCase_en": "Building professional UIs quickly",
+    "imageUrl": "/uploads/1770313499191.png",
+    "createdAt": "2026-02-05 17:44:59.253",
+    "updatedAt": "2026-02-05 17:44:59.253"
+  },
+  {
+    "id": 115,
+    "name": "graphql",
+    "description_ar": "لغة استعلام لإدارة وتبادل البيانات بين العميل والخادم",
+    "description_en": "Query language for APIs",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "networking",
+    "tags": [
+      "graphql",
+      "api",
+      "data"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "widely-used",
+      "essential"
+    ],
+    "npm": "graphql",
+    "stars": 20000,
+    "useCase_ar": "إنشاء APIs مرنة وقوية",
+    "useCase_en": "Building flexible and efficient APIs",
+    "imageUrl": "/uploads/1770315494502.png",
+    "createdAt": "2026-02-05 18:18:14.552",
+    "updatedAt": "2026-02-05 18:18:14.552"
+  },
+  {
+    "id": 116,
+    "name": "react-hook-form",
+    "description_ar": "مكتبة خفيفة وسريعة لإدارة النماذج في React",
+    "description_en": "Performant forms library for React",
+    "platforms": [
+      "nextjs",
+      "electron",
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "forms",
+      "react"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "fast",
+      "widely-used"
+    ],
+    "npm": "react-hook-form",
+    "stars": 40000,
+    "useCase_ar": "إدارة النماذج بكفاءة عالية",
+    "useCase_en": "Handling complex forms efficiently",
+    "imageUrl": "/uploads/1770314567127.png",
+    "createdAt": "2026-02-05 18:02:47.195",
+    "updatedAt": "2026-02-05 18:02:47.195"
+  },
+  {
+    "id": 117,
+    "name": "jose",
+    "description_ar": "مكتبة حديثة للتعامل مع JWT و JWE و JWS",
+    "description_en": "Modern library for JWT, JWE, and JWS",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "security",
+    "tags": [
+      "jwt",
+      "security",
+      "auth"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "powerful"
+    ],
+    "npm": "jose",
+    "stars": 5000,
+    "useCase_ar": "إدارة التوكنات والتشفير بأمان",
+    "useCase_en": "Handling tokens and cryptography securely",
+    "imageUrl": "/uploads/1770352799481.jpg",
+    "createdAt": "2026-02-06 04:39:59.512",
+    "updatedAt": "2026-02-06 04:39:59.512"
+  },
+  {
+    "id": 118,
+    "name": "groq-sdk",
+    "description_ar": "SDK للتعامل مع نماذج Groq للذكاء الاصطناعي",
+    "description_en": "SDK for interacting with Groq AI models",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "ai",
+      "sdk",
+      "llm"
+    ],
+    "level": "advanced",
+    "badges": [
+      "powerful"
+    ],
+    "npm": "groq-sdk",
+    "stars": 1500,
+    "useCase_ar": "دمج نماذج ذكاء اصطناعي داخل التطبيقات",
+    "useCase_en": "Integrating AI models into applications",
+    "imageUrl": "/uploads/1770353075321.png",
+    "createdAt": "2026-02-06 04:44:35.358",
+    "updatedAt": "2026-02-06 04:44:35.358"
+  },
+  {
+    "id": 119,
+    "name": "react-native-gesture-handler",
+    "description_ar": "مكتبة لإدارة الإيماءات المتقدمة في React Native",
+    "description_en": "Gesture handling library for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "gestures",
+      "mobile",
+      "ui"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "essential",
+      "widely-used"
+    ],
+    "npm": "react-native-gesture-handler",
+    "stars": 23000,
+    "useCase_ar": "إدارة السحب والنقر والحركات المتقدمة",
+    "useCase_en": "Handling advanced touch gestures",
+    "imageUrl": "/uploads/1770315145837.webp",
+    "createdAt": "2026-02-05 18:12:25.888",
+    "updatedAt": "2026-02-05 18:12:25.888"
+  },
+  {
+    "id": 120,
+    "name": "react-native-reanimated",
+    "description_ar": "مكتبة أنيميشن عالية الأداء لـ React Native",
+    "description_en": "High-performance animation library for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "animation",
+    "tags": [
+      "animation",
+      "mobile"
+    ],
+    "level": "advanced",
+    "badges": [
+      "powerful",
+      "fast"
+    ],
+    "npm": "react-native-reanimated",
+    "stars": 14000,
+    "useCase_ar": "إنشاء حركات سلسة ومعقدة",
+    "useCase_en": "Creating smooth and complex animations",
+    "imageUrl": "",
+    "createdAt": "2026-02-12 21:49:44.601",
+    "updatedAt": "2026-02-12 21:49:44.601"
+  },
+  {
+    "id": 121,
+    "name": "react-native-safe-area-context",
+    "description_ar": "إدارة المساحات الآمنة للشاشات في React Native",
+    "description_en": "Safe area handling for React Native apps",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "layout",
+      "mobile",
+      "safe-area"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential"
+    ],
+    "npm": "react-native-safe-area-context",
+    "stars": 6000,
+    "useCase_ar": "ضبط الواجهات حسب أحجام الشاشات",
+    "useCase_en": "Adjusting layouts for different screens",
+    "imageUrl": "/uploads/1770352651194.webp",
+    "createdAt": "2026-02-06 04:37:31.234",
+    "updatedAt": "2026-02-06 04:37:31.234"
+  },
+  {
+    "id": 122,
+    "name": "react-native-screens",
+    "description_ar": "تحسين أداء التنقل بين الشاشات",
+    "description_en": "Native screen management for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "performance",
+    "tags": [
+      "navigation",
+      "performance"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "fast"
+    ],
+    "npm": "react-native-screens",
+    "stars": 8000,
+    "useCase_ar": "تحسين أداء التنقل بين الصفحات",
+    "useCase_en": "Improving navigation performance",
+    "imageUrl": "/uploads/1770352196639.png",
+    "createdAt": "2026-02-06 04:29:56.684",
+    "updatedAt": "2026-02-06 04:29:56.684"
+  },
+  {
+    "id": 123,
+    "name": "react-native-svg",
+    "description_ar": "دعم SVG داخل تطبيقات React Native",
+    "description_en": "SVG support for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "svg",
+      "graphics"
+    ],
+    "level": "beginner",
+    "badges": [
+      "essential"
+    ],
+    "npm": "react-native-svg",
+    "stars": 10000,
+    "useCase_ar": "عرض الرسومات المتجهة داخل التطبيق",
+    "useCase_en": "Rendering vector graphics",
+    "imageUrl": "/uploads/1770351994507.png",
+    "createdAt": "2026-02-06 04:26:34.555",
+    "updatedAt": "2026-02-06 04:26:34.555"
+  },
+  {
+    "id": 124,
+    "name": "native-base",
+    "description_ar": "مكتبة UI جاهزة لتطبيقات React Native",
+    "description_en": "UI component library for React Native",
+    "platforms": [
+      "react-native"
+    ],
+    "category": "ui",
+    "tags": [
+      "components",
+      "mobile",
+      "ui"
+    ],
+    "level": "beginner",
+    "badges": [
+      "widely-used"
+    ],
+    "npm": "native-base",
+    "stars": 20000,
+    "useCase_ar": "بناء واجهات جاهزة وسريعة",
+    "useCase_en": "Building ready-to-use mobile interfaces",
+    "imageUrl": "/uploads/1770315672375.png",
+    "createdAt": "2026-02-05 18:21:12.394",
+    "updatedAt": "2026-02-05 18:21:12.394"
+  },
+  {
+    "id": 125,
+    "name": "electron-squirrel-startup",
+    "description_ar": "أداة لإدارة التثبيت والتحديث في تطبيقات Electron",
+    "description_en": "Installer and updater helper for Electron apps",
+    "platforms": [
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "electron",
+      "installer"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "essential"
+    ],
+    "npm": "electron-squirrel-startup",
+    "stars": 1600,
+    "useCase_ar": "تبسيط عملية تثبيت تطبيقات Electron",
+    "useCase_en": "Simplifying Electron app installation",
+    "imageUrl": "/uploads/1770353083211.ico",
+    "createdAt": "2026-02-06 04:44:43.247",
+    "updatedAt": "2026-02-06 04:44:43.247"
+  },
+  {
+    "id": 126,
+    "name": "openai",
+    "description_ar": "SDK للتعامل مع نماذج OpenAI",
+    "description_en": "SDK for interacting with OpenAI models",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "ai",
+      "openai",
+      "llm"
+    ],
+    "level": "advanced",
+    "badges": [
+      "powerful",
+      "production-ready"
+    ],
+    "npm": "openai",
+    "stars": 25000,
+    "useCase_ar": "دمج الذكاء الاصطناعي داخل التطبيقات",
+    "useCase_en": "Integrating AI capabilities into apps",
+    "imageUrl": "/uploads/1770314820499.png",
+    "createdAt": "2026-02-05 18:07:00.545",
+    "updatedAt": "2026-02-05 18:07:00.545"
+  },
+  {
+    "id": 127,
+    "name": "react-media-recorder",
+    "description_ar": "تسجيل الصوت والفيديو داخل تطبيقات React",
+    "description_en": "Audio and video recording for React apps",
+    "platforms": [
+      "nextjs",
+      "electron"
+    ],
+    "category": "tools",
+    "tags": [
+      "media",
+      "recording"
+    ],
+    "level": "intermediate",
+    "badges": [
+      "useful"
+    ],
+    "npm": "react-media-recorder",
+    "stars": 3000,
+    "useCase_ar": "تسجيل الصوت والفيديو من المتصفح",
+    "useCase_en": "Recording audio and video from browser",
+    "imageUrl": "/uploads/1770352932938.png",
+    "createdAt": "2026-02-06 04:42:12.985",
+    "updatedAt": "2026-02-06 04:42:12.985"
+  }
+]
